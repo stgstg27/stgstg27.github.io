@@ -1,4 +1,3 @@
-# 3-Tree Architecture
 
 ## Introduction
 Git is one of the most widely system for version control in techonology industry. Understanding basic concept of git is a must. Git follows three tree architecture. Here we will discuss What is 3 Tree Architecutre and how does it help us.
